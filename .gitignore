@@ -34,3 +34,6 @@ nb-configuration.xml
 
 # Local environment
 .env
+
+/target
+#!/target/dev-ops-server-util-1.0-runner
